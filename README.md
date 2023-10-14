@@ -15,6 +15,12 @@ Learning rate scheduling is essential for model convergence. I implemented Reduc
 ### Model Evaluation: 
 The model's performance is thoroughly evaluated using standard metrics such as categorical cross-entropy loss and accuracy. Training and validation results are visualized through insightful plots.
 
+### After training the model for 20 epochs, the following results were achieved:
+Training Accuracy: 94.16%
+Validation Accuracy: 80.34%
+Test Accuracy: 80.34%
+These results demonstrate the effectiveness of the CNN architecture and the optimization techniques used in this project for image classification tasks. The model exhibits strong generalization capabilities, achieving a test accuracy of over 80%.
+
 ### Reproducibility: 
 The code provided here is well-structured and documented, making it easy for others to understand and reproduce the results. It serves as an excellent starting point for anyone interested in image classification tasks or CNN-based deep learning projects.
 
